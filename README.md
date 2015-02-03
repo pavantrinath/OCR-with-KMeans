@@ -5,10 +5,10 @@ Readme
 
 Installation for Linux/Ubuntu.
 
-Pre-requesites to run the application
+Pre-req to run the application
 =====================================
 Installing softwares needed(Python, numpy, OpenCV)
-Python on Ubintu 14.04
+Python on Ubuntu 14.04
 ======================
 Install dependencies:
 $ sudo apt-get install python-software-properties
